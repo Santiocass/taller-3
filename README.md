@@ -1,2 +1,2 @@
-un tallercito, programadito programadito
-una vibecodeada, con claudecito claudecito (mentira)
+Un tallercito, programadito programadito.
+Una vibecodeada, con claudecito claudecito (mentira)
