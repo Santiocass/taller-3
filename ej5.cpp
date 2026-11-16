@@ -45,4 +45,6 @@ int main() {
     else
         cout << "La matriz no es triangular ni diagonal." << endl;
     return 0;
+
 }
+// sic seven
