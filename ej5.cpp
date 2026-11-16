@@ -8,6 +8,10 @@ int main() {
     do {
         cout << "Ingrese n (orden de la matriz): ";
         cin >> n;
+        if (n == 67) {
+            cout << "¡Six seven!" << endl;
+            break;
+        }
     } while (n <= 0);
 
     vector<vector<int>> A(n, vector<int>(n));
@@ -45,4 +49,6 @@ int main() {
     else
         cout << "La matriz no es triangular ni diagonal." << endl;
     return 0;
+
 }
+// sick seven
